@@ -84,6 +84,14 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+     },
+    "xiaomaomi": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子2k"
+      },
+    "xiaomaomi": {
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "name": "腾讯4K"
     }
   }
 }
